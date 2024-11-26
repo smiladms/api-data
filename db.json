@@ -1,0 +1,270 @@
+{
+  "slider": [
+    {
+      "id": 1,
+      "image": " https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-2-min.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 2,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/07/06/Artboard-5Artboard-6.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 3,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/05/13/jashnvare.jpg",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 4,
+      "image": " https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-4-min.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 5,
+      "image": " https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-1%20(1).png",
+      "alt": "dsastresi"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "image": " https://www.dastresi.com/upload/filemanager/2023/04/20/mobadel%20o%20rabet.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 2,
+      "image": " https://www.dastresi.com/upload/filemanager/2023/04/20/Holder%20Negahdarande.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 3,
+      "image": " https://www.dastresi.com/upload/filemanager/2023/04/20/handsfree.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 4,
+      "image": " https://www.dastresi.com/upload/filemanager/2023/04/20/powerbank.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 5,
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/adaptor.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 6,
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/cable.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 7,
+      "image": " https://www.dastresi.com/upload/filemanager/2023/04/20/mobadel%20o%20rabet.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 8,
+      "image": " https://www.dastresi.com/upload/filemanager/2023/04/20/Holder%20Negahdarande.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 9,
+      "image": " https://www.dastresi.com/upload/filemanager/2023/04/20/handsfree.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 10,
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/adaptor.png",
+      "alt": "dsastresi"
+    },
+    {
+      "id": 11,
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/cable.png",
+      "alt": "dsastresi"
+    }
+  ],
+  "mojod": [
+    {
+      "id": 1,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/06/18/Porodo-PBFCH030-22.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 2,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/06/26/BY-K3-11.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 3,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/09/10/RADIO-22.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 4,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/09/17/BOOKHOOR-11.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 5,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/09/18/B8ZZJ0-11.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 6,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/01/10/4NC-11.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 7,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/04/13/POWEROLOGY-PLARSPHBK11.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 8,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/05/15/7220EUFY-11.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    }
+    
+
+  ],
+  "porforosh": [
+    {
+      "id": 1,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/10/10/HARMOONY-FE1100-11.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 2,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/10/02/0088-1.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 3,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/09/30/Untitled-1.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 4,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/09/28/LDNIO-Y3-11.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 5,
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/28/ANKER-8757-11.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 6,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-NIM-1161.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 7,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/10/19/Untitled-1.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    },
+    {
+      "id": 8,
+      "image": " https://www.dastresi.com/upload/filemanager/2024/10/19/POMP47-22.jpg",
+      "alt": "dsastresi",
+      "title":"هولدر ونگهدارنده",
+      "description":"هولدر رومیزی پاورولوژی مدلpowerol.....",
+      "price": "2,160,000",
+      "saleprice":"2,060,000",
+      "unit":"تومان"
+
+    }
+    
+
+  ]
+}
